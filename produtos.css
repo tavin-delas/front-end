@@ -13,3 +13,8 @@ nav a{
     font-size: 22px;
     text-decoration: none;
 }
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
