@@ -12,12 +12,15 @@ body {
 }
 
 h1{
+    text-align: center;
+}
 
-    text-aling: center;
+p{
+    text-align: center;
 }
 
 #missao{
-    font-size:20px;
+    font-size: 20px;
 }
 
 em strong{
@@ -42,6 +45,7 @@ ul{
     width: 20%;
     margin-right: 15%;
 }
+
 .imagembeneficios{
     width: 50%;
 }
