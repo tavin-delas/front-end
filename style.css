@@ -1,5 +1,5 @@
-body {
-    background:   #cccccc;
+body{
+    background: #cccccc;
 }
 
 .principal{
@@ -8,7 +8,7 @@ body {
 }
 
 #banner {
-    width: 100%
+    width: 100%;
 }
 
 h1{
@@ -24,7 +24,7 @@ p{
 }
 
 em strong{
-    color:  #FF0000;
+    color: #FF0000;
 }
 
 .itens{
@@ -33,7 +33,7 @@ em strong{
 
 .beneficios{
     background: #ffffff;
-    padding: 20 px;
+    padding: 20px;
 }
 h2{
     text-align: center;
