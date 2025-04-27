@@ -25,7 +25,7 @@ nav a{
 }
 .produtos{
     width: 940;
-    margin: 0 auto ;
+    margin: 0 auto;
     padding: 50px 0;
 }
 .produtos li{
@@ -52,7 +52,7 @@ nav a{
     margin-top: 10px;
 }
 nav a:hover{
-    color: #c78c19;
+    color:#c78c19;
     text-decoration: underline;
 }
 .produtos li:hover{
@@ -70,7 +70,7 @@ footer{
     padding: 40px;
 }
 .copyright{
-    color: #ffffff;
+    color:#ffffff;
     font-size: 13px;
     margin: 20px 0 0;
 }
