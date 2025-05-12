@@ -113,4 +113,5 @@ form input{
     border: none;
     border-radius: 5px;
     transition: 1s all;
+    cursor: pointer;
 }
