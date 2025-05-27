@@ -164,6 +164,13 @@ td, th {
     clear: left;
 }
 
+.principal{
+    padding: 3em 0;
+    background: #fefefe;
+    width: 940px;
+    margin: 0 auto;
+}
+
 .principal p{
     margin: 0 0 1em;
 }
@@ -184,13 +191,18 @@ td, th {
 
 .imagembeneficios{
     width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagembeneficios:hover{
+    opacity: 0,85;
 }
 
 .mapa{
     padding: 3em 0;
     background:-o-linear-gradient(#fefefe, #888888);
-    width: 940px;
-    margin: 0 auto;
 }
 
 .mapa p{
@@ -230,4 +242,8 @@ td, th {
 
 .itens:first-child{
     font-weight: bold;
+}
+
+.itens::before{
+    content: "★";
 }
